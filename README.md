@@ -2,6 +2,7 @@
 
 Projeto da disciplina **Data Structure Strategy and Implementation**, desenvolvido em **Rust**.
 
+🎥 **Vídeo pitch:** [COLE AQUI O LINK DO VÍDEO]
 
 ## Objetivo
 
@@ -83,7 +84,7 @@ O custo da recomendação depende da **vizinhança** do cliente e não do tamanh
 ### Executar a demonstração
 
 ```bash
-git clone [COLE AQUI O LINK DO REPOSITÓRIO]
+git clone https://github.com/henrisilva604/megastore.git
 cd megastore
 cargo run
 ```
@@ -148,7 +149,7 @@ Dados sintéticos: *N* produtos, *N* clientes, 10 compras por cliente (gerador p
 | 10.000 | 10.000 | 14,3 ms | 75 µs |
 | 100.000 | 100.000 | 278,8 ms | 86 µs |
 
-Ambiente de teste: [PREENCHA: processador, memória RAM e sistema operacional], compilado com `--release`.
+Ambiente de teste: AMD Ryzen 5 4500 (6 núcleos, 3,6 GHz), 16 GB de RAM, Windows 11 (64 bits), compilado com `--release`.
 
 **Análise:**
 
