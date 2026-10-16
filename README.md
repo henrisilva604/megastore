@@ -2,7 +2,6 @@
 
 Projeto da disciplina **Data Structure Strategy and Implementation**, desenvolvido em **Rust**.
 
-🎥 **Vídeo pitch:** [COLE AQUI O LINK DO VÍDEO]
 
 ## Objetivo
 
